@@ -1,4 +1,6 @@
 print("subhadip khanra")
 
 x = input("enter your name: ")
-x = input("enter your surname: ")
+y = input("enter your surname: ")
+
+print(x,y)
