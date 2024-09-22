@@ -1,3 +1,5 @@
+#STDUENT NAME, EMAIL,NUMBER ... QUIT 
+
 list, lists = {}, {}
 
 while True:
